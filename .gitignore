@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.db
+*.sqlite
+coverage/
+.nyc_output/
+dist/
+logs/
+*.log
+.DS_Store
